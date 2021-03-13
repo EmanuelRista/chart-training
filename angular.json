@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/apexcharts/dist/apexcharts.min.js",
               "src/styles.scss"
             ],
             "scripts": []
